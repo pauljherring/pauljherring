@@ -1,4 +1,4 @@
-### Software engineer, currently in telecoms, previously in petrochemical.
+### Retired Software engineer, last in telecoms, previously in petrochemical.
 
 - C
 - PHP
